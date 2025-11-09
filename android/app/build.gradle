@@ -8,7 +8,7 @@ plugins {
 android {
     namespace = "com.nightmare.sunshine_android"
     compileSdk 36
-    ndkVersion = '29.0.13846066 rc3'
+    ndkVersion = '29.0.14206865'
 
     compileOptions {
         sourceCompatibility = JavaVersion.VERSION_1_8
@@ -28,7 +28,7 @@ android {
         versionName = flutter.versionName
 
         ndk {
-            ndkVersion = "29.0.13846066"
+            ndkVersion = "29.0.14206865"
             abiFilters 'arm64-v8a'
         }
     }

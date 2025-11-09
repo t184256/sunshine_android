@@ -8,7 +8,7 @@
 #include "stream.h"
 #include "rtsp.h"
 #include "audio.h"
-#include "moonlight-common-c/src/input.h"
+#include "moonlight-common-c/src/Input.h"
 #include "video_colorspace.h"
 #include "video_rotation.h"
 #include "practical_rotation.h"
